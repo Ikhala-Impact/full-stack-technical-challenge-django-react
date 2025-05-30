@@ -16,17 +16,18 @@ Build a small full-stack web application that displays sales data from a Django 
   - `amount` (FloatField)
 
 ### 📦 Data
+- Set up a **local database** (e.g. SQLite) and connect it to your Django project.
 Populate the `Sale` table with the following data:
 
 ```python
 [
     {"date": "2024-01-01", "amount": 1200.50},
-    {"date": "2024-01-02", "amount": 950.75},
-    {"date": "2024-01-03", "amount": 1320.20},
-    {"date": "2024-01-04", "amount": 875.00},
-    {"date": "2024-01-05", "amount": 1100.00},
-    {"date": "2024-01-06", "amount": 980.25},
-    {"date": "2024-01-07", "amount": 1035.40}
+    {"date": "2024-02-01", "amount": 950.75},
+    {"date": "2024-03-01", "amount": 1320.20},
+    {"date": "2024-04-01", "amount": 875.00},
+    {"date": "2024-05-01", "amount": 1100.00},
+    {"date": "2024-06-01", "amount": 980.25},
+    {"date": "2024-07-01", "amount": 1035.40}
 ]
 ```
 
