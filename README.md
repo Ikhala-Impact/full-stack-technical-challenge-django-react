@@ -16,7 +16,7 @@ Build a small full-stack web application that displays sales data from a Django 
   - `amount` (FloatField)
 
 ### 📦 Data
-- Set up a **local database** (e.g. SQLite) and connect it to your Django project.
+- Set up a **local database** (e.g. PostgreSQL or SQLite) and connect it to your Django project.
 Populate the `Sale` table with the following data:
 
 ```python
