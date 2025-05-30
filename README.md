@@ -17,7 +17,7 @@ Build a small full-stack web application that displays sales data from a Django 
 
 ### 📦 Data
 - Set up a **local database** (e.g. PostgreSQL or SQLite) and connect it to your Django project.
-Populate the `Sale` table with the following data:
+- Populate the `Sale` table with the following data:
 
 ```python
 [
